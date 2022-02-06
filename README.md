@@ -1,5 +1,4 @@
 # DB Coding Challenge test automation using Selenium Webdriver with Java, JUnit and Maven
-### Steps to run the Test suite
 
 ## Prerequisites
 
@@ -12,7 +11,7 @@
 
 - Clone this repository to your local machine using the command below:
 ```
-	$ git clone https://github.com/
+	$ git clone https://github.com/sunita13/DbChallenge
 ```
 
 ---
